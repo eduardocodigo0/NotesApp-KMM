@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\note_list_item.xml",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\note_list_item.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_note_list.xml",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\fragment_note_list.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit_note.xml",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\fragment_edit_note.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new_note.xml",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\fragment_new_note.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_edit_note.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\fragment_edit_note.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_note_list_item.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\note_list_item.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new_note.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\fragment_new_note.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_note_list.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\fragment_note_list.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_create.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\drawable\\ic_create.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_open.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\drawable\\ic_open.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\gitCoisas\\NotesApp-KMM\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

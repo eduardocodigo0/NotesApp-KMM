@@ -1,0 +1,17 @@
+<resources>
+    <string name="title">NotesApp</string>
+    <string name="note_title_placeholder">Note title</string>
+    <string name="edit_note_title_hint">Note title.</string>
+    <string name="edit_note_content_hint">Note content...</string>
+
+    <string name="note_msg_validation">"Please, give your note a title."</string>
+    <string name="note_msg_save">"Note saved successfully!"</string>
+    <string name="note_msg_Delete">"Note deleted successfully!"</string>
+    <string name="note_msg_NotSaved">"Could not save the note!"</string>
+    <string name="note_msg_NotDeleted">"Could not delete the note!"</string>
+    <string name="note_msg_Update">"Note updated successfully!"</string>
+    <string name="note_msg_NotUpdated">"Could not update the note!"</string>
+
+    <string name="no_notes_found_msg">"You have no notes yet!"</string>
+
+</resources>

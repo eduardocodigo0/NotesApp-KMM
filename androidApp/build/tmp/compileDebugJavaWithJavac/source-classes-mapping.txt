@@ -1,0 +1,12 @@
+me/eduardo/androidApp/BuildConfig.java
+ me.eduardo.androidApp.BuildConfig
+me/eduardo/androidApp/databinding/FragmentEditNoteBinding.java
+ me.eduardo.androidApp.databinding.FragmentEditNoteBinding
+me/eduardo/androidApp/databinding/ActivityMainBinding.java
+ me.eduardo.androidApp.databinding.ActivityMainBinding
+me/eduardo/androidApp/databinding/NoteListItemBinding.java
+ me.eduardo.androidApp.databinding.NoteListItemBinding
+me/eduardo/androidApp/databinding/FragmentNoteListBinding.java
+ me.eduardo.androidApp.databinding.FragmentNoteListBinding
+me/eduardo/androidApp/databinding/FragmentNewNoteBinding.java
+ me.eduardo.androidApp.databinding.FragmentNewNoteBinding

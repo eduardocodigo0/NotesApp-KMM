@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_note_list.xml.flat",
+        "source": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\src\\main\\res\\layout\\fragment_note_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_edit_note.xml.flat",
+        "source": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\src\\main\\res\\layout\\fragment_edit_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new_note.xml.flat",
+        "source": "C:\\Users\\Eduardo\\AndroidStudioProjects\\OriginName\\androidApp\\src\\main\\res\\layout\\fragment_new_note.xml"
+    }
+]
