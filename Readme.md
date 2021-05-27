@@ -1,0 +1,14 @@
+# Write Down your notes
+
+### Tools
+
+- [SQLDelight](https://cashapp.github.io/sqldelight/)
+- [KMM](https://kotlinlang.org/lp/mobile/)
+
+
+
+ ### Screens
+ 
+![N|Solid](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/097f4b40-d385-4bf0-89ab-73b909eb2e0e/dekezcr-574ea631-532f-4623-abf2-b7fc1b117dc6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5N2Y0YjQwLWQzODUtNGJmMC04OWFiLTczYjkwOWViMmUwZVwvZGVrZXpjci01NzRlYTYzMS01MzJmLTQ2MjMtYWJmMi1iN2ZjMWIxMTdkYzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j6u3JbxmRP6coyJSp_yWpZuCElb17uTnESyK-dSBHoQ)
+
+![N|Solid](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/097f4b40-d385-4bf0-89ab-73b909eb2e0e/dekezd1-9529e6b7-f835-415e-9aa8-b79d4bab644b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5N2Y0YjQwLWQzODUtNGJmMC04OWFiLTczYjkwOWViMmUwZVwvZGVrZXpkMS05NTI5ZTZiNy1mODM1LTQxNWUtOWFhOC1iNzlkNGJhYjY0NGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hVk5nErOmDWmBmN9DoKhJXOx-7z4qBwZvSVy0AFu248)
