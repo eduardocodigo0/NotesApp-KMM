@@ -2204,6 +2204,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string delete_comfirmation_dialog_msg
 string edit_note_content_hint
 string edit_note_title_hint
 string error_icon_content_description
@@ -2252,9 +2253,11 @@ string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
+string no
 string no_notes_found_msg
 string note_msg_Delete
 string note_msg_NotDeleted
+string note_msg_NotDeleted2
 string note_msg_NotSaved
 string note_msg_NotUpdated
 string note_msg_Update
@@ -2269,6 +2272,7 @@ string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
 string title
+string yes
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

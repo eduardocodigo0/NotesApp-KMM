@@ -1,6 +1,8 @@
 package me.eduardo.androidApp.ui
 
+import android.app.AlertDialog
 import android.content.Context
+import android.content.DialogInterface
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -45,7 +47,7 @@ class EditNoteFragment : Fragment() {
                 Toast.makeText(context, R.string.note_msg_Update, Toast.LENGTH_SHORT).show()
                 requireActivity().onBackPressed()
             } else {
-                Toast.makeText(context,  R.string.note_msg_NotUpdated, Toast.LENGTH_SHORT).show()
+                Toast.makeText(context, R.string.note_msg_NotUpdated, Toast.LENGTH_SHORT).show()
             }
 
         })
@@ -53,7 +55,7 @@ class EditNoteFragment : Fragment() {
         vm.deleted.observe(viewLifecycleOwner, Observer { success ->
 
             if (success) {
-                Toast.makeText(context,  R.string.note_msg_Delete, Toast.LENGTH_SHORT).show()
+                Toast.makeText(context, R.string.note_msg_Delete, Toast.LENGTH_SHORT).show()
                 requireActivity().onBackPressed()
             } else {
                 Toast.makeText(context, R.string.note_msg_NotDeleted, Toast.LENGTH_SHORT).show()
@@ -80,9 +82,7 @@ class EditNoteFragment : Fragment() {
         }
 
         binding.fabDeleteNote.setOnClickListener {
-            id?.let {
-                vm.deleteNote(it)
-            }
+            callAlert(id)?.show()
         }
 
         id?.let {
@@ -98,4 +98,32 @@ class EditNoteFragment : Fragment() {
 
         super.onDestroyView()
     }
+
+    fun callAlert(noteId: Long?): AlertDialog? {
+        return activity?.let {
+            val alertBuilder = AlertDialog.Builder(it)
+
+            alertBuilder.apply {
+                setMessage(R.string.delete_comfirmation_dialog_msg)
+
+                setPositiveButton(R.string.yes,
+                    DialogInterface.OnClickListener { dialog, id ->
+                        noteId?.let {
+                            vm.deleteNote(it)
+                        }
+                    })
+
+                setNegativeButton(R.string.no,
+                    DialogInterface.OnClickListener { dialog, id ->
+                        Toast.makeText(context, R.string.note_msg_NotDeleted2, Toast.LENGTH_SHORT)
+                            .show()
+                    })
+
+            }
+
+
+            alertBuilder.create()
+        }
+    }
+
 }
